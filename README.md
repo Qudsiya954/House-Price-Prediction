@@ -43,8 +43,8 @@ This project is a web-based application built using **Flask**, **pandas**, and *
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/yourusername/house-price-predictor.git
-   cd house-price-predictor
+     git clone https://github.com/Qudsiya954/House-Price-Prediction.git
+   cd House-Price-Prediction
    ```
 2.**Install dependencies:**
 ```bash
